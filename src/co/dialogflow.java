@@ -42,10 +42,7 @@ public class dialogflow extends JFrame {
 	private JPanel contentPane;
 	private JTextField txtFdfd;
 	String a;
-
-	/**
-	 * Launch the application.
-	 */
+	// Better pull up
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
